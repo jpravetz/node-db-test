@@ -1,0 +1,9 @@
+{
+    "name": "db-test",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "underscore": ">= 1.4.2",
+        "sequelize": "*"
+    }
+}
